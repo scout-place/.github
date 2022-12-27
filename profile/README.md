@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  The only product you will ever need to track your job applications. Hey Scout, goodbye Excel.
+  The only product you will ever need to track your job applications. Hello Scout, goodbye Excel.
 <p>
 
 <div align="center">
-  <a href="https://www.scout.place/">Scout</a> –
+  <a href="https://www.scout.place/">Home Page</a> –
   <a href="https://discord.com/scout">Discord</a>
 </div>
