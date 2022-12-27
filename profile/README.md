@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  The only product you will ever need to track your application. Hey Scout, goodbye Excel.
+  The only product you will ever need to track your job applications. Hey Scout, goodbye Excel.
 <p>
 
 <div align="center">
