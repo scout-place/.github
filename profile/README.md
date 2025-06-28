@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="scout" src="https://raw.githubusercontent.com/scout-place/.github/5bd177d97387f31e6a8abaf10cceb0d20274e56a/content/scout.svg?token=AKLV7D32EZT7CRW2PWS2FVDDVNDAM" width="auto" height="60">
+    <img alt="scout" src="https://raw.githubusercontent.com/scout-place/.github/6fefd6f94e8f2fe46d93217549f6a01abda9ce2e/content/scout.svg" width="auto" height="60">
 </p>
 
 <p align="center">
